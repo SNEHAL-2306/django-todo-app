@@ -17,6 +17,11 @@ Users can add, edit, delete, and mark tasks as complete.
 
 ---
 
+## 🖼️ Screenshot
+
+![Todo App UI](screenshots/todo-ui.png)
+
+
 ## 💻 Tech Stack
 
 - Python 3.12
